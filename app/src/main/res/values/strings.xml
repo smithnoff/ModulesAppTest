@@ -4,4 +4,5 @@
     <string name="title_home">My Wall</string>
     <string name="title_dashboard">Contacts</string>
     <string name="title_notifications">Profile</string>
+    <string name="splash1">BIENVENIDO al splash de la aplicacion </string>
 </resources>
